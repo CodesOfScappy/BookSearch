@@ -1,0 +1,6 @@
+/* DeinStylesheet.css */
+
+/* Hier wird die Hintergrundfarbe des AnchorPane auf #dbe9b4 gesetzt */
+.anchor-pane {
+    -fx-background-color: #dbe9b4;
+}

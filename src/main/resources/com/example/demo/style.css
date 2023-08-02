@@ -1,0 +1,6 @@
+#vboxData {
+    -fx-border-color: black; /* Farbe des Rahmens (schwarz in diesem Beispiel) */
+    -fx-border-width: 1px; /* Breite des Rahmens (1 Pixel in diesem Beispiel) */
+    -fx-border-style: solid; /* Stil des Rahmens (durchgezogen in diesem Beispiel) */
+    -fx-padding: 10px; /* Innenabstand der VBox (10 Pixel in diesem Beispiel) */
+}
